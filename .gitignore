@@ -106,4 +106,5 @@ venv.bak/
 .DS_Store
 
 .idea/*
-Glove.6B/*
+embeddings/*
+Datasets/*
