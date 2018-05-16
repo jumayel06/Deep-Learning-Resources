@@ -109,3 +109,4 @@ venv.bak/
 embeddings/*
 datasets/*
 models/*
+resources/*
